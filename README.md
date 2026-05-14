@@ -1,45 +1,60 @@
 <h1 align="center">Hi 👋, I'm Ragini More</h1>
 
-<h3 align="center">B.Tech Computer Engineering Student</h3>
+<h3 align="center">Computer Engineering Student | Full Stack Developer | AI Enthusiast</h3>
 
 <p align="center">
-🌱 Learning Full Stack Development <br>
-💻 Interested in Web Development & AI <br>
-🚀 Final Year Project: Space Object Detection
+Passionate about building web applications and exploring AI-driven solutions.  
+Focused on creating practical projects and continuously learning new technologies.
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=raginimore21&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 🚀 Technologies & Tools
+## 👩‍💻 About Me
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,mysql,python,git,github" />
+- 🎓 B.Tech Computer Engineering Student  
+- 🌱 Currently learning **Full Stack Development & AI Applications**  
+- 💡 Interested in **Web Development, AI, and Software Engineering**  
+- 📚 Exploring modern technologies and solving real-world problems  
+
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,python,mysql,git,github" />
 </p>
 
 ---
 
-## 📌 Projects
+## 🚀 Featured Projects
 
-### AI PDF Chat
-AI-powered PDF question-answer system using React and AI APIs.
+### AI-Powered PDF Q&A System
+Built an intelligent application that allows users to upload PDF documents and receive context-based answers using AI.
 
-### Smart Irrigation System
-Patent-oriented smart agriculture project.
 
 ### Railway Ticket Booking System
-Built using Servlet, JSP, JDBC, MySQL.
+Developed using Servlet, JSP, JDBC, and MySQL with MVC architecture.
+
+### Smart Irrigation System
+Agriculture-focused project using smart technology and automation concepts.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
-![Stats](https://github-readme-stats.vercel.app/api?username=raginimore21&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raginimore21&show_icons=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raginimore21&layout=compact)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=raginimore21)
+
 ---
 
-## 📫 Connect with me
+## 🤝 Connect With Me
 
-LinkedIn: Add your link  
-Email: yourmail@gmail.com
+LinkedIn: www.linkedin.com/in/ragini-more-4459b4256 
