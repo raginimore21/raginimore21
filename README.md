@@ -7,9 +7,9 @@ Passionate about building web applications and exploring AI-driven solutions.
 Focused on creating practical projects and continuously learning new technologies.
 </p>
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://komarev.com/ghpvc/?username=raginimore21&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+</p> -->
 
 ---
 
